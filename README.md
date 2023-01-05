@@ -2,7 +2,7 @@
 
 <!--
 **mHwak22/mhwak22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ --> -->
 
 
 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ### :sunglasses: About me : 
 
 - 👋 Hi, I'm @Mohak
-###- 👀 I’m interested in ...
+<!-- ###- 👀 I’m interested in ... -->
 - 🌱 I’m currently learning FullStack 
-###- 💞️ I’m looking to collaborate on ...
+<!-- ###- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me mohakyo123@gmail.com
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
