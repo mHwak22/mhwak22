@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- --> -->
- -->
+ --> 
 
 
 <div align="center"><img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47oarhdsphpwghhykeq0rm2ocavf2uczes1bmdlioj&rid=giphy.gif&ct=g" align ="center" width="30%"></img>
@@ -23,7 +22,9 @@ Here are some ideas to get you started:
   <br>
 <a href="https://www.linkedin.com/in/mohak-muskan-0a7a7b16a/" rel="nofollow">
 <img src="https://camo.githubusercontent.com/9284b4ce37b3a48541345419ea9509fe68367cf737f8cf4bbcb8687eb004e111/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-
+ </a>
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></img>
+  </a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=&style=flat-square&color=blue" />
 </div >
